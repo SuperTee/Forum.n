@@ -1,0 +1,8 @@
+{
+	"db_host" : "127.0.0.1",
+	"db_name" : "forum_db"
+	"db_login" : "sa",
+	"db_password : "1111"
+	"db_brand" : "mongo"
+
+}
